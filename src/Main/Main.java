@@ -29,7 +29,7 @@ public class Main {
 
         /* Datasets */
         
-      /*  DatasetsList.add("banknote");
+        DatasetsList.add("banknote");
         DatasetsList.add("blood");
         DatasetsList.add("car");
         DatasetsList.add("chart");
@@ -43,9 +43,9 @@ public class Main {
         DatasetsList.add("haberman");
         DatasetsList.add("hayes");
         DatasetsList.add("indian");
-        DatasetsList.add("ionosphere");*/
+        DatasetsList.add("ionosphere");
         DatasetsList.add("iris");
-        /* DatasetsList.add("knowledge");
+        DatasetsList.add("knowledge");
         DatasetsList.add("leaf"); 
         DatasetsList.add("libras");
         DatasetsList.add("planning");
@@ -60,7 +60,7 @@ public class Main {
         DatasetsList.add("wine");
         DatasetsList.add("wine_red");
         DatasetsList.add("yeast"); 
-        DatasetsList.add("zoo"); */
+        DatasetsList.add("zoo");
          
         String fileName = "";
 
